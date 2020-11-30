@@ -11,7 +11,6 @@ public class Summa extends Komento {
 
     
     public void suorita() {
-        System.out.println("Calling SUM");
         this.alkutila = Integer.parseInt(tuloskentta.getText());
         try {
             int luku = Integer.valueOf(syotekentta.getText());

@@ -1,0 +1,6 @@
+## Retrospektiivi
+
+Pidimme retrospektiivin ennen asiakastapaamista ja sprintin päätöstä yhteisessä puhelussa.
+Totesimme sprintin hyviksi asioiksi (Glad) sen, että kaikilla oli jotakin tehtävää, ja asiakkaan pyytämät uudet toiminnallisuudet saatiin tyydyttävästi valmiiksi. Lisäksi saimme muutamia vanhoja ongelmia ratkaistua liittyen ulkoasuun.
+Ikäviä puolista (Sad) erityisen paljon hankaluuksia aiheutti automaattisen testauksen vaikeus graafisessa käyttöliittymässä ja testien tuottaminen sovelluksen eri tasoille. Testaaminen JavaFX:llä on kaikille uutta ja päänvaivaa aiheuttavaa. Päätimme suorittaa varsinkin vaikeammat testaukset siis yhteisten työskentelysessioiden aikana niin paljolti kuin se on mahdollista. Testauksen vaikeuden vuoksi kaikissa valmiissa toiminnallisuuksissa ei ollut automaattitestausta, mutta asia paikattiin tekemällä paljon manuaalista testausta. Myös työnjako ja kirjanpito oli aiheuttanut hämmennystä, ja tuntui siltä, että Scrumin periaatteissa on paljon opeteltavaa. Sovimme, että raportoimme toisillemme tekemisemme tarkemmin vastedes. 
+Muita huolia oli se, että näin pienessä projektissa työnjako kuudelle henkilölle on haastavaa, mutta aika tuntuu silti loppuvan kesken. Päädyimme kuitenkin lopulta toteamaan, että olemme oppineet sprintin aikana paljon.

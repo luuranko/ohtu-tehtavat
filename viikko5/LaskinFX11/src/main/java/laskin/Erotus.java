@@ -11,7 +11,6 @@ public class Erotus extends Komento {
 
     @Override
     public void suorita() {
-        System.out.println("Calling MINUS");
         this.alkutila = Integer.parseInt(tuloskentta.getText());
         try {
             int luku = Integer.valueOf(syotekentta.getText());

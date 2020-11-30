@@ -11,7 +11,6 @@ public class Nollaa extends Komento {
 
     @Override
     public void suorita() {
-        System.out.println("Calling NULL");
         this.alkutila = Integer.parseInt(tuloskentta.getText());
         this.io.nollaa();
         tuloskentta.setText("" + io.tulos());
