@@ -1,0 +1,16 @@
+ohtu/kivipaperisakset/KPSPelaajaVsPelaaja.java
+ ohtu.kivipaperisakset.KPSPelaajaVsPelaaja
+ohtu/kivipaperisakset/Tuomari.java
+ ohtu.kivipaperisakset.Tuomari
+ohtu/kivipaperisakset/Tekoaly.java
+ ohtu.kivipaperisakset.Tekoaly
+ohtu/kivipaperisakset/TekoalyParannettu.java
+ ohtu.kivipaperisakset.TekoalyParannettu
+ohtu/kivipaperisakset/Paaohjelma.java
+ ohtu.kivipaperisakset.Paaohjelma
+ohtu/kivipaperisakset/KiviPaperiSakset.java
+ ohtu.kivipaperisakset.KiviPaperiSakset
+ohtu/kivipaperisakset/ITekoaly.java
+ ohtu.kivipaperisakset.ITekoaly
+ohtu/kivipaperisakset/KPSTekoaly.java
+ ohtu.kivipaperisakset.KPSTekoaly

@@ -2,10 +2,14 @@ package ohtu.kivipaperisakset;
 
 public class KPSTekoaly extends KiviPaperiSakset {
 
-    Tekoaly tekoaly;
+    ITekoaly tekoaly;
 
-    public KPSTekoaly() {
-        tekoaly = new Tekoaly();
+    public KPSTekoaly(boolean paha) {
+        if (paha) {
+            tekoaly = new TekoalyParannettu(20);
+        } else {
+            tekoaly = new Tekoaly();
+        }
     }
 
     @Override
